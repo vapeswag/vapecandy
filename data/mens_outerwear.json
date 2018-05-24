@@ -1,5 +1,6 @@
 [
-  {
+  {  
+    "sku": 3,
     "name":"Men+s+Tech+Shell+Full-Zip",
     "title":"Men's Tech Shell Full-Zip",
     "category":"mens_outerwear",
@@ -9,6 +10,7 @@
     "largeImage":"data/images/10-15068A.jpg"
   },
   {
+    "sku": 4,
     "name":"Anvil+L+S+Crew+Neck+-+Grey",
     "title":"Anvil L/S Crew Neck - Grey",
     "category":"mens_outerwear",
@@ -18,6 +20,7 @@
     "largeImage":"data/images/10-14154A.jpg"
   },
   {
+    "sku": 5,
     "name":"Green+Flex+Fleece+Zip+Hoodie",
     "title":"Green Flex Fleece Zip Hoodie",
     "category":"mens_outerwear",
