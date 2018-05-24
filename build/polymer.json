@@ -42,7 +42,8 @@
       "bundle": true,
       "addServiceWorker": true,
       "addPushManifest": false,
-      "preset": "es5-bundled"
+      "preset": "es5-bundled",
+      "basePath": false
     },
     {
       "name": "es6-unbundled",
@@ -64,7 +65,8 @@
       "bundle": false,
       "addServiceWorker": true,
       "addPushManifest": true,
-      "preset": "es6-unbundled"
+      "preset": "es6-unbundled",
+      "basePath": false
     },
     {
       "name": "es6-bundled",
@@ -85,7 +87,8 @@
       "bundle": true,
       "addServiceWorker": true,
       "addPushManifest": false,
-      "preset": "es6-bundled"
+      "preset": "es6-bundled",
+      "basePath": false
     }
   ],
   "lint": {

@@ -22,13 +22,16 @@
   },
   "builds": [
     {
-      "preset": "es5-bundled"
+      "preset": "es5-bundled",
+      "basePath": false
     },
     {
-      "preset": "es6-unbundled"
+      "preset": "es6-unbundled",
+      "basePath": false
     },
     {
-      "preset": "es6-bundled"
+      "preset": "es6-bundled",
+      "basePath": false
     }
   ]
 }
